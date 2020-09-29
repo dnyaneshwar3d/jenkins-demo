@@ -9,7 +9,7 @@
 		<version>2.1.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dnyanesh</groupId>
+	<groupId>com.dnyanesh</groupId> 
 	<artifactId>https-demo</artifactId>
 	<version>1.0.0</version>
 	<name>https-demo</name>
